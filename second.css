@@ -1,0 +1,27 @@
+h1{
+    color: pink;
+}
+@import url('styles.css');
+
+a {
+    color: brown;
+}
+
+p {
+    color: blueviolet;
+    font-size: 25px;
+    background-color: blanchedalmond;
+}
+.first{
+    color:darkgreen;
+    font-weight: normal;
+    font-size: 25px;
+    background-color: blanchedalmond;
+}  
+#special{
+    font-size: 50px;
+}
+* {
+    font-weight: bolder;
+} 
+/* for all the elements */
